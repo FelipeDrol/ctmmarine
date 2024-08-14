@@ -6,21 +6,20 @@ const ctm_stores = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.366726,
-          25.798836
+          -80.3738711,
+          25.8046656
 
         ]
       },
       "properties": {
-        "phoneFormatted": "(305) 646-1339",
-        "phone": "3056461339",
-        "address": "2685 NW 105th Ave",
+        "phoneFormatted": "(800) 766-5256",
+        "phone": "8007665256",
+        "address": "3300 NW 112th Ave. Unit 4",
         "city": "Doral",
         "country": "United States",
-        "crossStreet": "at NW 27th St",
         "postalCode": "33172",
         "state": "FL",
-        "text": "Tripping Animals Brewing Co.",
+        "text": "Citimarine Store - FL Dist.",
         "notice": "Call ahead to ensure they have what you are looking for."
       }
     },
@@ -29,18 +28,16 @@ const ctm_stores = {
      "geometry": {
      "type": "Point",
      "coordinates": [
-    -80.726396,
-    28.243072 ]
+      -80.3378424,
+      25.8227595 ]
    },
    "properties": {
-
-
-     "address": "2250 Town Center Ave # 101",
-     "city": "Melbourne",
+     "address": "8489 NW 54th Ave",
+     "city": "Doral",
      "country": "United States",
-     "postalCode": "32940",
+     "postalCode": "33166",
      "state": "FL",
-     "text": "28 North Gastropub",
+     "text": "Marea Marine",
      "notice": "Call ahead to ensure they have what you are looking for."
     }
    },
@@ -49,18 +46,16 @@ const ctm_stores = {
      "geometry": {
      "type": "Point",
      "coordinates": [
-    -80.142996,
-    26.057059 ]
+      -80.9398085,
+      25.5949023 ]
    },
    "properties": {
-
-
-     "address": "236 N Federal Highwayunit# 104",
-     "city": "Dania Beach",
+     "address": "244 NW 46th Ave",
+     "city": "Miami",
      "country": "United States",
-     "postalCode": "33004",
+     "postalCode": "33126",
      "state": "FL",
-     "text": "3 Sons Brewing Co",
+     "text": "Blue Water Marine Service",
      "notice": "Call ahead to ensure they have what you are looking for."
     }
   }
